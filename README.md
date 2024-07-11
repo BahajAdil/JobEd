@@ -1,5 +1,5 @@
 ## JobEd
-Education/Job Market knowledge graph construction and modeling
+Education/Job Market knowledge graph construction and modelling
 
 ## Reference
     @article{fettach2024jobedkg,
